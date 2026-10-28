@@ -1,0 +1,6 @@
+{
+  "name": "Trade License Verification Portal",
+  "description": "Official Trade License verification portal with dynamic data management, QR code generator, and instant verification system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
